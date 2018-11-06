@@ -1,2 +1,3 @@
-# definitely-not-v3
-It's definitely not v3.
+# Definitely Not Statamic v3
+
+But it is 3.0.2
